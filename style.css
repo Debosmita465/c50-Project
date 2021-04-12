@@ -1,0 +1,32 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+a:link{
+    color: white;
+    font-size: small;
+}
+.body{
+    background-color: whitesmoke;
+}
+.bodyimg{
+    font-family: cursive;
+    background-color:black;
+    color: white;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius:50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+}
